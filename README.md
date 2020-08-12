@@ -10,4 +10,5 @@ Por que aprender C? <br><br>
 <h2> Estrutura do Curso</h2>
 
 
-
+<li>Aula 01 - O que é Algoritmo? </li>
+<li>Aula 02 - História da Linguagem C </li>
