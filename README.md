@@ -1,4 +1,4 @@
-Por que aprender C ++? <br><br>
+Por que aprender C? <br><br>
 
 <li>C é uma poderosa linguagem de programação de propósito geral. Ele pode ser usado para desenvolver software como sistemas operacionais, bancos de dados, compiladores e assim por diante. A programação C é uma linguagem excelente para aprender a programar para iniciantes.</li><br>
 
