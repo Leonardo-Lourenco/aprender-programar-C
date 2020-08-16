@@ -1,3 +1,8 @@
+![CURSO C](https://user-images.githubusercontent.com/27355729/90344244-d9a20400-dfe5-11ea-8f9e-b6f75248fbd6.png)
+
+
+
+
 Por que aprender C? <br><br>
 
 <li>C é uma poderosa linguagem de programação de propósito geral. Ele pode ser usado para desenvolver software como sistemas operacionais, bancos de dados, compiladores e assim por diante. A programação C é uma linguagem excelente para aprender a programar para iniciantes.</li><br>
