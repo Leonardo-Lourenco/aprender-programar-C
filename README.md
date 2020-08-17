@@ -19,3 +19,6 @@ Por que aprender C? <br><br>
 <li>História da Linguagem C </li>
 <li>Aula 01 - Apresentação do Curso </li>
 <li>Aula 02 - Preparando o ambiente de desenvolvimento </li>
+<li>Aula 03 - Fazendo o primeiro Hello Word </li>
+<li>Aula 04 - Entrada e Sáidas de Dados </li>
+<li>Aula 05 - Tipos de Variáveis </li>
