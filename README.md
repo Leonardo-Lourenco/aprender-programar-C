@@ -22,3 +22,4 @@ Por que aprender C? <br><br>
 <li>Aula 03 - Fazendo o primeiro Hello Word </li>
 <li>Aula 04 - Entrada e Sáidas de Dados </li>
 <li>Aula 05 - Tipos de Variáveis </li>
+<li>Aula 06 - Operadores de atribuição </li>
