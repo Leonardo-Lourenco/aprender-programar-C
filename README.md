@@ -25,3 +25,8 @@ Por que aprender C? <br><br>
 <li>Aula 06 - Operadores de atribuição </li>
 <li>Aula 07 - Operadores de atribuição Parte 02 </li>
 <li>Aula 08 - Desafios Exercícios de Fixação de Conteúdo </li>
+<li>Aula 09 - Criando uma Calculadora </li>
+<li>Aula 10 - Calculando as Compras </li>
+<li>Aula 11 - Calculando a Medias das notas de um Aluno  </li>
+<li>Aula 12 - Condição IF </li>
+<li>Aula 13 - Condição IF / ELSE </li>
