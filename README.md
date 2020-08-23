@@ -23,3 +23,5 @@ Por que aprender C? <br><br>
 <li>Aula 04 - Entrada e Sáidas de Dados </li>
 <li>Aula 05 - Tipos de Variáveis </li>
 <li>Aula 06 - Operadores de atribuição </li>
+<li>Aula 07 - Operadores de atribuição Parte 02 </li>
+<li>Aula 08 - Desafios Exercícios de Fixação de Conteúdo </li>
