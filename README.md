@@ -30,3 +30,8 @@ Por que aprender C? <br><br>
 <li>Aula 11 - Calculando a Medias das notas de um Aluno  </li>
 <li>Aula 12 - Condição IF </li>
 <li>Aula 13 - Condição IF / ELSE </li>
+<li>Aula 14 - Estrutura Switch / ELSE </li>
+<li>Aula 15 - Exercício 01 - verificar se o valor informado é maior ou menor que 10 </li>
+<li>Aula 16 - Exercício 02 - verificar se o valor é ÍMPAR ou PAR </li>
+<li>Aula 17 - Exercício 03 - verificar se a letra infromada é VOGAL ou CONSOANTE </li>
+<li>Aula 18 - Exercício 04 - Caixa Eletrônico </li>
