@@ -36,16 +36,24 @@ Por que aprender C? <br><br>
 <li>Aula 17 - Exercício 03 - verificar se a letra infromada é VOGAL ou CONSOANTE </li>
 <li>Aula 18 - Exercício 04 - Caixa Eletrônico </li>
 <li>Aula 19 - Operador Ternário </li>
-<li>Aula 20 Estrutura de Controle While </li>
-<li>Aula 21 Estrutura de Controle Do While </li>
-<li>Aula 22 Laço FOR </li>
-<li>Aula 23 Exercício 05: Soma de N valores </li>
-<li>Aula 24 Exercício 06: Fatorial de um Número  </li>
-<li>Aula 25 Exercício 07: Tabuada de Multiplicação  </li>
-<li>Aula 26 Exercício 08: Sequência de Fibonacci </li>
-<li>Aula 27  Introdução Arrays Unidimensional  </li>
-<li>Aula 28  Exercício 09: Calcular a Média de N valores  </li>
-<li>Aula 29  Introdução Array Bidimensional - MATRIZ </li>
+<li>Aula 20 - Estrutura de Controle While </li>
+<li>Aula 21 - Estrutura de Controle Do While </li>
+<li>Aula 22 -  Laço FOR </li>
+<li>Aula 23 - Exercício 05: Soma de N valores </li>
+<li>Aula 24- Exercício 06: Fatorial de um Número  </li>
+<li>Aula 25 - Exercício 07: Tabuada de Multiplicação  </li>
+<li>Aula 26 - Exercício 08: Sequência de Fibonacci </li>
+<li>Aula 27 - Introdução Arrays Unidimensional  </li>
+<li>Aula 28  - Exercício 09: Calcular a Média de N valores  </li>
+<li>Aula 29 - Introdução Array Bidimensional - MATRIZ </li>
+<li>Aula 30 - Exercício 10: Somando valor valores de duas Matrizez </li>
+<li>Ala 31 - Exercício 11: Exibindo cidade, temperatra e dias da semana - Matriz</li>
+<li>Aula 32 - Introdução Função  </li>
+<li>Aula 33 - Exercício 12: Função que retorna dois valores </li>
+<li>Aula 34 - Função Recursiva </li>
+<li>Aula 35 - Exercício 13 - Função para inverter uma Frase </li>
+<li>Aula 36 - Introdução Ponteiros </li>
+<li>Aula 37 - Ponteiros e Array (Vetor) </li>
 
 
 
