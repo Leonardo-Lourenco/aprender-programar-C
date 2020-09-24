@@ -58,8 +58,10 @@ Por que aprender C? <br><br>
 <li>Aula 39 - Alocação Dinâmica de Memória - Malloc e Free </li>
 <li>Aula 40 - Alocação Dinâmica de Memória Calloc e Free </li>
 <li>Aula 41 - Alocação Dinâmica de Memória Realloc </li>
-<li>Aula 42 - INtrodução Strings </li>
-
-
-
-
+<li>Aula 42 - Introdução Strings </li>
+<li>Aula 43 - String e Função </li>
+<li>Aula 44 - Ponteiro e String </li>
+<li>Aula 45 - Função Strlen() </li>
+<li>Aula 46 - Função Strcpy() </li>
+<li>Aula 47 - Função Strcmp() </li>
+<li>Aula 48 - Função Strcat() </li>
