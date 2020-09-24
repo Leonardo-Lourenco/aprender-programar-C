@@ -54,6 +54,11 @@ Por que aprender C? <br><br>
 <li>Aula 35 - Exercício 13 - Função para inverter uma Frase </li>
 <li>Aula 36 - Introdução Ponteiros </li>
 <li>Aula 37 - Ponteiros e Array (Vetor) </li>
+<li>Aula 38 - Ponteiros e Funções </li>
+<li>Aula 39 - Alocação Dinâmica de Memória - Malloc e Free </li>
+<li>Aula 40 - Alocação Dinâmica de Memória Calloc e Free </li>
+<li>Aula 41 - Alocação Dinâmica de Memória Realloc </li>
+<li>Aula 42 - INtrodução Strings </li>
 
 
 
